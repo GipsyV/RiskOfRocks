@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1677702044 source:c:\downloads\quadraquest\main.c
+	"raylib.h"
+
+1658250882 c:\dev-libs\raylib_x86-windows\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1677873062 source:\\homes\vgcastro\downloads\quadraquest\main.c
+	"raylib.h"
+	"stdio.h"
+
+1677867342 \\homes\vgcastro\downloads\quadraquest\data.h
+
+1678112933 source:c:\users\aluno\downloads\leglegendsalpha\main.c
+	"raylib.h"
+	"stdio.h"
+
+1678308426 source:e:\leglegendsalpha\main.c
+	"raylib.h"
+	"stdio.h"
+
+1678660931 source:c:\users\vini\desktop\leglegendsalpha\main.c
+	"raylib.h"
+	"stdio.h"
+
